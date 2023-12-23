@@ -1,0 +1,42 @@
+package ToolQA;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class ToolQARawTestcases {
+	WebDriver driver=new ChromeDriver();
+	
+	@BeforeMethod
+	public void login()
+	{
+		WebDriverManager.chromedriver().setup();
+		
+		driver.get("https://demoqa.com/modal-dialogs");
+		driver.manage().window().maximize();
+		driver.findElement(By.xpath("(//div[@class=\"header-wrapper\"])[1]")).click();
+		driver.findElement(By.xpath("//span[text()=\"Text Box\"]")).click();
+	}
+	@Test
+   public void element()
+   {
+		driver.findElement(By.id("userName")).sendKeys("Jyoshna Kumari Majhi");
+		driver.findElement(By.id("userEmail")).sendKeys("jyoshna.kumari@gmail.com");
+		driver.findElement(By.id("currentAddress")).sendKeys("I amm Jyoshna");
+		driver.findElement(By.id("permanentAddress")).sendKeys("I amm Jyoshna");
+		driver.findElement(By.xpath("submit")).click();
+		
+	}
+	@AfterMethod
+	
+	public void close()
+	{
+		driver.quit();
+	}
+
+}

@@ -1,0 +1,205 @@
+2023-12-22 17:08:56,978 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-22 17:09:52,391 [Worker-11: Creating project "ToolQAProject"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ToolQAProject:ToolQAProject:0.0.1-SNAPSHOT @ C:\Users\santo\Desktop\ToolQA\ToolQAProject\pom.xml.
+2023-12-22 17:09:54,114 [Worker-11: Creating project "ToolQAProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToolQAProject/src/main/java
+2023-12-22 17:09:54,116 [Worker-11: Creating project "ToolQAProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToolQAProject/src/main/resources
+2023-12-22 17:09:54,118 [Worker-11: Creating project "ToolQAProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToolQAProject/src/test/java
+2023-12-22 17:09:54,118 [Worker-11: Creating project "ToolQAProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToolQAProject/src/test/resources
+2023-12-22 17:09:56,289 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:09:56,297 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:09:56,302 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:09:56,304 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:18:51,649 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ToolQAProject:ToolQAProject:0.0.1-SNAPSHOT @ C:\Users\santo\Desktop\ToolQA\ToolQAProject\pom.xml.
+2023-12-22 17:18:57,071 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:18:57,075 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:18:57,078 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:18:57,080 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:18:58,471 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:18:58,475 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:18:58,477 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:18:58,478 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:19:39,749 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:19:39,752 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:19:39,757 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:19:39,759 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:19:40,789 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:19:40,791 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:19:40,794 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:19:40,796 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:24:17,559 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:24:17,562 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:24:17,566 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:24:17,569 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:24:32,696 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:24:32,697 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:24:32,700 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:24:32,702 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:53:46,426 [Worker-32: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:53:46,429 [Worker-32: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:53:46,434 [Worker-32: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:53:46,437 [Worker-32: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:54:18,265 [Worker-32: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:54:18,267 [Worker-32: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:54:18,276 [Worker-32: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:54:18,279 [Worker-32: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:55:34,325 [Worker-34: Launching ToolQARawTestcases] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ToolQAProject:ToolQAProject:0.0.1-SNAPSHOT @ C:\Users\santo\Desktop\ToolQA\ToolQAProject\pom.xml.
+2023-12-22 17:55:34,954 [Worker-34: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:55:34,958 [Worker-34: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:55:34,961 [Worker-34: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:55:34,963 [Worker-34: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:55:35,502 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:55:35,504 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:55:35,506 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:55:35,508 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:56:19,129 [Worker-28: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:56:19,131 [Worker-28: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:56:19,135 [Worker-28: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:56:19,137 [Worker-28: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:56:52,808 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ToolQAProject:ToolQAProject:0.0.1-SNAPSHOT @ C:\Users\santo\Desktop\ToolQA\ToolQAProject\pom.xml.
+2023-12-22 17:56:53,333 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:56:53,338 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:56:53,343 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:56:53,344 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:56:54,758 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:56:54,761 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 17:56:54,765 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 17:56:54,771 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:01:01,336 [Worker-36: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:01:01,339 [Worker-36: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:01:01,343 [Worker-36: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:01:01,345 [Worker-36: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:11:23,098 [Worker-28: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:11:23,100 [Worker-28: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:11:23,104 [Worker-28: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:11:23,109 [Worker-28: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:20:53,924 [Worker-42: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:20:53,928 [Worker-42: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:20:53,934 [Worker-42: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:20:53,937 [Worker-42: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:21:38,607 [Worker-45: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:21:38,608 [Worker-45: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:21:38,611 [Worker-45: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:21:38,614 [Worker-45: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:33:59,370 [Worker-45: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:33:59,373 [Worker-45: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:33:59,375 [Worker-45: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:33:59,378 [Worker-45: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:39:37,853 [Worker-45: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:39:37,856 [Worker-45: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:39:37,862 [Worker-45: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:39:37,865 [Worker-45: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:52:07,303 [Worker-54: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:52:07,306 [Worker-54: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:52:07,308 [Worker-54: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:52:07,311 [Worker-54: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:53:42,103 [Worker-54: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:53:42,106 [Worker-54: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 18:53:42,109 [Worker-54: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 18:53:42,112 [Worker-54: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:15:40,521 [Worker-58: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:15:40,535 [Worker-58: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:15:40,542 [Worker-58: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:15:40,548 [Worker-58: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:16:46,313 [Worker-54: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:16:46,316 [Worker-54: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:16:46,325 [Worker-54: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:16:46,327 [Worker-54: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:17:22,030 [Worker-54: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:17:22,033 [Worker-54: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:17:22,039 [Worker-54: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:17:22,043 [Worker-54: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:37:11,892 [Worker-66: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:37:11,897 [Worker-66: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:37:11,900 [Worker-66: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:37:11,902 [Worker-66: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:39:23,443 [Worker-67: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:39:23,447 [Worker-67: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:39:23,455 [Worker-67: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:39:23,457 [Worker-67: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:43:39,226 [Worker-67: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:43:39,234 [Worker-67: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:43:39,241 [Worker-67: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:43:39,246 [Worker-67: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:48:07,690 [Worker-73: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:48:07,697 [Worker-73: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:48:07,702 [Worker-73: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:48:07,705 [Worker-73: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:49:23,679 [Worker-76: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:49:23,686 [Worker-76: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:49:23,693 [Worker-76: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:49:23,695 [Worker-76: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:50:50,815 [Worker-80: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:50:50,841 [Worker-80: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-22 22:50:50,850 [Worker-80: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-22 22:50:50,854 [Worker-80: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 09:52:08,094 [Worker-75: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 09:52:08,178 [Worker-75: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 09:52:08,329 [Worker-75: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 09:52:08,336 [Worker-75: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:18:29,396 [Worker-84: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:18:29,407 [Worker-84: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:18:29,409 [Worker-84: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:18:29,412 [Worker-84: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:19:56,031 [Worker-88: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:19:56,035 [Worker-88: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:19:56,038 [Worker-88: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:19:56,041 [Worker-88: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:22:02,648 [Worker-87: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:22:02,682 [Worker-87: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:22:02,687 [Worker-87: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:22:02,690 [Worker-87: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:27:43,150 [Worker-91: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:27:43,166 [Worker-91: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:27:43,172 [Worker-91: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:27:43,177 [Worker-91: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:32:12,134 [Worker-91: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:32:12,170 [Worker-91: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 11:32:12,184 [Worker-91: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 11:32:12,190 [Worker-91: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 13:33:01,289 [Worker-108: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 13:33:01,299 [Worker-108: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 13:33:01,303 [Worker-108: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 13:33:01,306 [Worker-108: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 13:34:40,418 [Worker-115: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 13:34:40,422 [Worker-115: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 13:34:40,426 [Worker-115: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 13:34:40,429 [Worker-115: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 14:39:58,586 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 14:39:58,596 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 14:39:58,609 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 14:39:58,611 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:16:13,660 [Worker-129: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:16:13,670 [Worker-129: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:16:13,676 [Worker-129: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:16:13,681 [Worker-129: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:17:15,247 [Worker-130: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:17:15,253 [Worker-130: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:17:15,260 [Worker-130: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:17:15,263 [Worker-130: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:20:27,349 [Worker-131: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:20:27,353 [Worker-131: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:20:27,358 [Worker-131: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:20:27,360 [Worker-131: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:21:57,721 [Worker-136: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:21:57,724 [Worker-136: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:21:57,731 [Worker-136: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:21:57,733 [Worker-136: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:23:22,867 [Worker-139: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:23:22,869 [Worker-139: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:23:22,873 [Worker-139: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:23:22,875 [Worker-139: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:25:11,893 [Worker-136: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:25:11,896 [Worker-136: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:25:11,900 [Worker-136: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:25:11,903 [Worker-136: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:28:44,049 [Worker-140: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:28:44,058 [Worker-140: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:28:44,060 [Worker-140: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:28:44,064 [Worker-140: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:31:58,857 [Worker-143: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:31:58,918 [Worker-143: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:31:58,977 [Worker-143: Launching ToolQARawTestcases] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:31:58,982 [Worker-143: Launching ToolQARawTestcases] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:50:06,916 [Worker-147: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:50:06,937 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-12-23 16:50:06,941 [Worker-147: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-23 16:50:06,944 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -1,0 +1,88 @@
+package ToolQA;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class ToolQARawTestcases {
+	WebDriver driver=new ChromeDriver();
+	
+	@BeforeMethod
+	public void login()
+	{
+		WebDriverManager.chromedriver().setup();
+		
+		driver.get("https://demoqa.com/modal-dialogs");
+		driver.manage().window().maximize();
+		driver.findElement(By.xpath("(//div[@class=\"header-wrapper\"])[1]")).click();
+		driver.findElement(By.xpath("//span[text()=\"Text Box\"]")).click();
+	}
+	@Test(priority=0)
+   public void element()
+   {
+		driver.findElement(By.id("userName")).sendKeys("Jyoshna Kumari Majhi");
+		driver.findElement(By.id("userEmail")).sendKeys("jyoshna.kumari@gmail.com");
+		driver.findElement(By.id("currentAddress")).sendKeys("I amm Jyoshna");
+		driver.findElement(By.id("permanentAddress")).sendKeys("I amm Jyoshna");
+		JavascriptExecutor js=(JavascriptExecutor)driver;
+		
+		js.executeScript("window.scrollBy(0,1000)");
+		WebElement sumbit=driver.findElement(By.xpath("//button[@id=\"submit\"]"));
+		sumbit.click();
+
+   }
+	@Test(priority=1)
+	   public void checkbox() throws InterruptedException
+	   {
+		
+		JavascriptExecutor js=(JavascriptExecutor)driver;
+		js.executeScript("scroll(0, -250)");
+        driver.findElement(By.xpath("//span[text()='Check Box']")).click();
+       WebElement toggle= driver.findElement(By.xpath("//button[@title=\"Toggle\"]"));
+       toggle.click();
+       
+       //Select all checkboxes
+       
+       WebElement BeforeCheckedcheckbox= driver.findElement(By.xpath("(//label/input[@type=\"checkbox\"]/following-sibling::span[@class=\"rct-checkbox\"])[1]"));
+       BeforeCheckedcheckbox.click();
+       WebElement AfterCheckedcheckbox= driver.findElement(By.xpath("//label[@for='tree-node-home']//span[@class='rct-checkbox']//*[name()='svg']//*[name()='path' and contains(@d,'M19 3H5c-1')]"));
+       System.out.println(AfterCheckedcheckbox.isSelected());//true
+       Thread.sleep(3000);
+       
+	   } 
+	@Test(priority=3)
+	 public void Radiobutton()
+	   {
+	WebElement radio=driver.findElement(By.xpath("//span[text()='Radio Button']"));
+	radio.click();	
+	List<WebElement> radiobuttons=driver.findElements(By.xpath("//body/div[@id='app']/div[@class='body-height']/div[@class='container playgound-body']/div[@class='row']/div[@class='col-12 mt-4 col-md-6']/div"));
+	int radibuttoncount=radiobuttons.size();
+	System.out.println("The number of radio buttons are"+radibuttoncount);
+/*	WebElement radYes=driver.findElement(By.xpath("//input[@id=\"yesRadio\"]"));
+	for(WebElement radbuttons:radiobuttons)
+	{
+		if(radbuttons)
+	}*/
+	
+	
+	   }    
+     
+       
+       
+
+	   
+	public void close()
+	{
+		driver.quit();
+	}
+
+}
